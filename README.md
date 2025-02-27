@@ -1,4 +1,4 @@
-# Web Development Project
+# Web - Development Practice Project
 
 ## Overview
 Welcome to my web development project repository! This project aims to build a modern, responsive, and functional web application using the latest technologies. The repository will include frontend, backend, and database integration components.
